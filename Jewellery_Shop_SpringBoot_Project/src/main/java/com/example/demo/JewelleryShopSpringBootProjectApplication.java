@@ -8,6 +8,7 @@ public class JewelleryShopSpringBootProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JewelleryShopSpringBootProjectApplication.class, args);
+		//hello
 	}
 
 }
